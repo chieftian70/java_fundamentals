@@ -15,12 +15,6 @@ public class Exercise_03 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Check out my first program!");
-
-        int i=32;
-        int x=47;
-        int z=i+x;
-
-        System.out.println(z);
     }
 
 }
